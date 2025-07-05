@@ -1,6 +1,5 @@
 ## Olá! Me chamo Luis Felipe 👋
 ### Desenvolvedor Android <img align="center" alt="Android" height="19" width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Android_robot_head.svg/1200px-Android_robot_head.svg.png">
-- 🌱 Atualmente estou cursando Sistemas para Internet na Unisinos 
 
 ##
  <div>
